@@ -1,0 +1,9 @@
+numpy>=2.0
+pandas>=2.2,<3
+scikit-learn>=1.5
+matplotlib>=3.8
+pyspark>=4.0
+transformers>=4.40
+torch>=2.2
+jupyter>=1.0
+notebook>=7.0
